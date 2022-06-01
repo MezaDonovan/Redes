@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1649125937 source:d:\22a cucei\redes 1\practica 6 icmpv6\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<iostream>
+	<string>
+	<cstring>
+	"Funciones.h"
+
+1648747002 d:\22a cucei\redes 1\practica 6 icmpv6\funciones.h
+	<winsock2.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<iostream>
+	<string>
+	<cstring>
+	<ws2tcpip.h>
+
+1649344515 source:c:\22a cucei\redes 1\practica 6 icmpv6\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<iostream>
+	<string>
+	<cstring>
+	"Funciones.h"
+
+1649344540 c:\22a cucei\redes 1\practica 6 icmpv6\funciones.h
+	<winsock2.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<iostream>
+	<string>
+	<cstring>
+	<ws2tcpip.h>
+
+1649998442 source:e:\22a cucei\redes 1\practica 6 icmpv6\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<iostream>
+	<string>
+	<cstring>
+	"Funciones.h"
+
+1649541204 e:\22a cucei\redes 1\practica 6 icmpv6\funciones.h
+	<winsock2.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<iostream>
+	<string>
+	<cstring>
+	<ws2tcpip.h>
+
+1651727852 source:e:\22a cucei\redes 1\snifer pt6\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<iostream>
+	<string>
+	<cstring>
+	"Funciones.h"
+
+1650992040 e:\22a cucei\redes 1\snifer pt6\funciones.h
+	<winsock2.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<iostream>
+	<string>
+	<cstring>
+	<ws2tcpip.h>
+
+1651763708 source:d:\22a cucei\redes 1\snifer pt6\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<iostream>
+	<string>
+	<cstring>
+	"Funciones.h"
+
+1650992040 d:\22a cucei\redes 1\snifer pt6\funciones.h
+	<winsock2.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<iostream>
+	<string>
+	<cstring>
+	<ws2tcpip.h>
+
+1651764528 source:c:\users\donovan\desktop\sexo00000pene\nueva carpeta\snifer pt6\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<iostream>
+	<string>
+	<cstring>
+	"Funciones.h"
+
+1650992040 c:\users\donovan\desktop\sexo00000pene\nueva carpeta\snifer pt6\funciones.h
+	<winsock2.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<iostream>
+	<string>
+	<cstring>
+	<ws2tcpip.h>
+
